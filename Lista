@@ -1,11 +1,13 @@
 == LA LIGA ===
-
+#EXTINF:-1 tvg-id="DAZN_LaLiga_1080p_" tvg-name="DAZN LaLiga 1080p *" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="LA_LIGA",DAZN LaLiga 1080p *
 DAZN LaLiga 1080p *
 acestream://7f11f3366b520f71adedddf6ff1ad70362cc6a65
 
 DAZN LaLiga 2 1080p *
 acestream://0e8da42adea7a2372ff06648474a2e3b5f858312
 
+
+#EXTINF:-1 tvg-id="M_LaLiga_1080p_" tvg-name="M+ LaLiga 1080p *" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA_LIGA",M+ LaLiga 1080p *
 M+ LaLiga 720p *
 acestream://9a38eeaf69cbb004ec09583cbea626f326f49f49
 
