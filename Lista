@@ -3,34 +3,34 @@
 #EXTINF:-1 tvg-id="M_LaLiga_1080p_" tvg-name="M+ LaLiga 1080p *" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA_LIGA",M+ LaLiga 1080p *
 acestream://9a38eeaf69cbb004ec09583cbea626f326f49f49
 
-M+ LaLiga 720p *
+#EXTINF:-1 tvg-id="M_LaLiga_1080p_" tvg-name="M+ LaLiga 1080p *" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA_LIGA",M+ LaLiga 1080p *
 acestream://18b5d3d96b259a772d2ef4817fe6983e111ae6a9
 
-M+ LaLiga 720p **
+#EXTINF:-1 tvg-id="M_LaLiga_1080p_" tvg-name="M+ LaLiga 1080p *" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA_LIGA",M+ LaLiga 1080p *
 acestream://045fd3d76dfd193437543d8104d04d868d29bb41
 
-M+ LaLiga 1080p *
+#EXTINF:-1 tvg-id="M_LaLiga_1080p_" tvg-name="M+ LaLiga 1080p *" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA_LIGA",M+ LaLiga 1080p *
 acestream://2c90acc97a9d80dbaa5c13efaff0967a57aa31bd
 
-M+ LaLiga 1080p **
+#EXTINF:-1 tvg-id="M_LaLiga_1080p_" tvg-name="M+ LaLiga 1080p *" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA_LIGA",M+ LaLiga 1080p *
 acestream://a037fc909bdc14f3741e8e357ab255c5eb50db3c
 
-M+ LaLiga 1080p **
+#EXTINF:-1 tvg-id="M_LaLiga_1080p_" tvg-name="M+ LaLiga 1080p *" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA_LIGA",M+ LaLiga 1080p *
 acestream://aa1e23b2456bcee1eebaae19dc222fe8827375f7
 
-M+ LaLiga 1080p **
+#EXTINF:-1 tvg-id="M_LaLiga_1080p_" tvg-name="M+ LaLiga 1080p *" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA_LIGA",M+ LaLiga 1080p *
 acestream://a6c284e70d65e82171536ba58d8457e2c6fe6ff2
 
-M+ LaLiga 2 1080p **
+#EXTINF:-1 tvg-id="M_LaLiga_1080p_" tvg-name="M+ LaLiga 1080p *" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA_LIGA",M+ LaLiga 1080p *
 acestream://10f8b302cc3b2eb96ee53130286988f07845467a
 
-M+ LaLiga 2 *
+#EXTINF:-1 tvg-id="M_LaLiga_1080p_" tvg-name="M+ LaLiga 1080p *" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA_LIGA",M+ LaLiga 1080p *
 acestream://2edbaced018a9b39fd66c695a0bdca5d9d54f667
 
-M+ LaLiga 3 720p **
+#EXTINF:-1 tvg-id="M_LaLiga_1080p_" tvg-name="M+ LaLiga 1080p *" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA_LIGA",M+ LaLiga 1080p *
 acestream://0f7f38b18839697ff23a3a50b692a37c7b20527a
 
-M+ LaLiga 3 1080p **
+#EXTINF:-1 tvg-id="M_LaLiga_1080p_" tvg-name="M+ LaLiga 1080p *" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA_LIGA",M+ LaLiga 1080p *
 acestream://ee143cc1cc38fc76a9a3ee3842d1d8ec0960eda9
 
 === LIGA DE CAMPEONES ===
