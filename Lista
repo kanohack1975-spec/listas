@@ -1,8 +1,6 @@
 == LA LIGA ===
 #EXTINF:-1 tvg-id="GRAN HERMANO"
 http://line.tvplus4u.xyz:80/play/live.php?mac=00:1B:79:4A:5C:0E&stream=1975904&extension=ts&play_token=qwxCma5OLu
-
-
 #EXTINF:-1 tvg-id="M_LaLiga_1080p_" tvg-name="M+ LaLiga 1080p *" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA_LIGA",M+ LaLiga 1080p *
 acestream://9a38eeaf69cbb004ec09583cbea626f326f49f49
 
