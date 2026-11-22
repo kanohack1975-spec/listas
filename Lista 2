@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="GRAN HERMANO" tvg-name="ES: (HD) GH VIP 9 
-group-title="ES | GH VIP",GRAN HERMANO VIP
+#EXTINF:-1 tvg-id="GH VIP" tvg-logo="https://logos.example/canal1.png" group-title="ЁЯлкGRAN HERMANO",GH VIP 
 http://line.tvplus4u.xyz:80/play/live.php?mac=00:1B:79:4A:5C:0E&stream=1975904&extension=ts&play_token=qwxCma5OLu
 #EXTINF:-1 tvg-id="daznliga.movistarplus.es" tvg-name="ES: (HD) DAZN LALIGA tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (HD) DAZN LALIGA
 http://31.43.191.125:8080/VIP018211742742797372/db74e056103c/243
