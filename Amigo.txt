@@ -5,8 +5,7 @@
 # ==========================================
 # ZONA AUTOMATICA: тнР ELCANO [M├БXIMA CALIDAD]
 # ==========================================
-#EXTINF:-1 tvg-id="GH VIP" tvg-logo="https://logos.example/canal1.png" group-title="GRAN HERMANO",GH VIP 9
-http://line.tvplus4u.xyz:80/play/live.php?mac=00:1B:79:4A:5C:0E&stream=1975904&extension=ts&play_token=qwxCma5OLu
+
 #EXTINF:-1 tvg-id="Movistar Plus HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png" group-title="тнР ELCANO [M├БXIMA CALIDAD]",MOVISTAR PLUS 1080p *
 http://127.0.0.1:6878/ace/getstream?id=96cc6b02a0ce66ed3a01d9904e7ee8db0f2da5d7
 #EXTINF:-1 tvg-id="Movistar Plus HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png" group-title="тнР ELCANO [M├БXIMA CALIDAD]",MOVISTAR PLUS 1080p **
