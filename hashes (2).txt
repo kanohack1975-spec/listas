@@ -4,8 +4,7 @@ Total: 153 hashes
 ========================================
 
 === BALONCESTO ===
-
-DAZN Baloncesto 720p **
+#EXTINF:group-title="DAZN Baloncesto 720p ** "
 acestream://81726596472933c3dfc9b3cd31fef7d0716c8ba4
 
 DAZN Baloncesto 1080p *
